@@ -1,0 +1,15 @@
+/home/riccardo/VisualStudio/SAMPLE1/bin/Debug/net7.0/sample1
+/home/riccardo/VisualStudio/SAMPLE1/bin/Debug/net7.0/sample1.deps.json
+/home/riccardo/VisualStudio/SAMPLE1/bin/Debug/net7.0/sample1.runtimeconfig.json
+/home/riccardo/VisualStudio/SAMPLE1/bin/Debug/net7.0/sample1.dll
+/home/riccardo/VisualStudio/SAMPLE1/bin/Debug/net7.0/sample1.pdb
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.csproj.AssemblyReference.cache
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.AssemblyInfoInputs.cache
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.AssemblyInfo.cs
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.csproj.CoreCompileInputs.cache
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.dll
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/refint/sample1.dll
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.pdb
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/sample1.genruntimeconfig.cache
+/home/riccardo/VisualStudio/SAMPLE1/obj/Debug/net7.0/ref/sample1.dll
